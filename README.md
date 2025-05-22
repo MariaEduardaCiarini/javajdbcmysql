@@ -2,6 +2,11 @@
 ### Parte integrante do curso: *Java COMPLETO: Programação Orientada a Objetos + Projetos*  
 🎓 Por: [Nélio Alves](https://www.udemy.com/user/nelio-alves/)
 
+![Curso Udemy](https://img.shields.io/badge/Udemy-Curso%20Premium-%23A435F0?logo=Udemy&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Estudando-%2300C853)
+![Linguagem](https://img.shields.io/badge/Java-JDBC-orange?logo=java)
+![Banco de Dados](https://img.shields.io/badge/MySQL-Utilizado-00758F?logo=mysql&logoColor=white)
+
 ---
 
 ## 📘 Visão Geral
@@ -32,10 +37,10 @@ Este módulo bônus é dedicado a introduzir e consolidar os principais conceito
 
 ## 💻 Tecnologias Utilizadas
 
-- MySQL  
-- SQL (Structured Query Language)  
-- Java (JDBC)  
-- Workbench / Linha de comando  
+- ![Java](https://img.shields.io/badge/Java-JDK%2017-%23f89820?logo=java)
+- ![JDBC](https://img.shields.io/badge/JDBC-Conector-%23007396)
+- ![MySQL](https://img.shields.io/badge/MySQL-Workbench-%2300758F?logo=mysql&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-Essencial-%2300BFA5)
 
 ---
 
@@ -63,4 +68,3 @@ Este bônus é essencial para expandir sua capacidade de construir **aplicaçõe
 Este conteúdo faz parte de um dos cursos mais completos e respeitados da plataforma Udemy para quem deseja aprender **Java do absoluto zero até a criação de sistemas robustos e profissionais.**
 
 ---
-
