@@ -3,7 +3,7 @@
 🎓 Por: [Nélio Alves](https://www.udemy.com/user/nelio-alves/)
 
 ![Curso Udemy](https://img.shields.io/badge/Udemy-Curso%20Premium-%23A435F0?logo=Udemy&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Estudando-%2300C853)
+![Status](https://img.shields.io/badge/Status-Completo-%2300C853)
 ![Linguagem](https://img.shields.io/badge/Java-JDBC-orange?logo=java)
 ![Banco de Dados](https://img.shields.io/badge/MySQL-Utilizado-00758F?logo=mysql&logoColor=white)
 
